@@ -1,6 +1,6 @@
 import React from "react";
 import Phonebook from "./components/Phonebook";
-import "./tailwind.output.css";
+import "./tailwind.css";
 
 const App = () => {
   return (
